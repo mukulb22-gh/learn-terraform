@@ -1,2 +1,4 @@
-ch01-AWS-VPC-EC2/.terraform/
-ch01-AWS-VPC-EC2/.terraform.lock.hcl
+**/.terraform/
+**/.terraform.lock.hcl
+**/.terraform.tfstate
+**/.terraform.tfstate.backup
